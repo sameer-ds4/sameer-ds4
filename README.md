@@ -14,6 +14,4 @@ I make Games for PC and Mobile platforms on Unity Engine and C#. <br>Actively In
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-ds4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
 ---
-[![](https://visitcount.itsvg.in/api?id=sameer-ds4&icon=9&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
