@@ -1,5 +1,5 @@
 # 💫 About Me:
-I make Games for PC and Mobile platforms on Unity Engine and C#. <br>Actively Involved in Game Jams hosted on itch.io.<br>Currently working on Procedural Generated worlds and algorithms of Marching Cubes and WaveFunction Collapse.<br>I use Blender and Photoshop for 3D Modeling and Design.
+I make Games for PC and Mobile platforms on Unity Engine and C#. <br>Actively Involved in Game Jams hosted on itch.io.<br>Currently learning Unity HLSL Shaderlab programming<br>I use Blender and Photoshop for 3D Modeling and Design.
 
 
 ## 🌐 Socials:
